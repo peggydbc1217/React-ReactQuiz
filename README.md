@@ -1,3 +1,13 @@
+#Pratice context api and some useEffect cases
+![image](https://github.com/peggydbc1217/ReactQuiz-React-Pratice/assets/42536652/3d2578d2-d51c-4268-968b-00603c6a19a5)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
